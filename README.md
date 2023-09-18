@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **website projects**
 
-- 👨‍💻 All of my projects are available at [https://aadirajput.vercel.app/](https://aadirajput.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://aadirajput.flaxstudio.in/](https://aadirajput.flaxstudio.in/)
 
 - 💬 Ask me about **hmtl,css,js**
 
