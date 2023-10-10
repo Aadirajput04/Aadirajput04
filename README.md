@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aadirajput04" alt="aadirajput04" /></a> </p>
 
-- 🔭 I’m currently working on **youmate**
+- 🔭 I’m currently working on **A fully functional e-commerce site**
 
 - 🌱 I’m currently learning **javascript**
 
